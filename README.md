@@ -1,5 +1,5 @@
 ## Olá eu sou a Natalia Olegini
-<!-- README do Youtube Rafaella Ballerini -->
+<!-- README inspired by Youtube Rafaella Ballerini -->
 
 
 <div style="display: inline_block"><br>

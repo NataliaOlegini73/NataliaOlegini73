@@ -1,12 +1,14 @@
 ## Olá! Eu sou a Natalia Olegini
 <!-- README inspired by Youtube Rafaella Ballerini -->
 
+https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/130a5100-0d52-4388-aada-601bd01b6d4a
 
 <div style="display: inline_block"><br>
   Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas. No momento estou aprendendo sobre HTML, nos próximos trimestres aprenderei CSS e Javascript. <br><br>
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="C++" height="30" width="40" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/130a5100-0d52-4388-aada-601bd01b6d4a">
    <img align="right" title="mini Natalia" height="200" width="250" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/9a6ea68f-de89-4425-93fc-f55c81aa2935">
 </div>
   

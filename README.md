@@ -4,7 +4,7 @@
 https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/130a5100-0d52-4388-aada-601bd01b6d4a
 
 <div style="display: inline_block"><br>
-  Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas. No momento estou aprendendo sobre HTML, nos próximos trimestres aprenderei CSS e Javascript. <br><br>
+  Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas. Aprendi um poco de C++ e no momento estou aprendendo sobre HTML, nos próximos trimestres também irei aprender CSS e Javascript. <br><br>
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -1,4 +1,4 @@
-## Olá eu sou a Natalia Olegini
+## Olá! Eu sou a Natalia Olegini
 <!-- README inspired by Youtube Rafaella Ballerini -->
 
 

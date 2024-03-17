@@ -6,7 +6,7 @@
   <img align="center" alt="Natalia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="mini eu" height="290" width="400" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/5ed4c7c7-5328-4874-a876-19a2751c6da5">
+   <img align="right" alt="mini eu" height="200" width="300" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/132ddc55-bf84-45c7-a2b3-019e6bae5016">
 </div>
   
   ##

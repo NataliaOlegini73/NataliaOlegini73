@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Natalia Olegini
 <!-- README inspired by Youtube Rafaella Ballerini -->
 
-https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/130a5100-0d52-4388-aada-601bd01b6d4a
-
 <div style="display: inline_block"><br>
   Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas. Aprendi um poco de C++ e no momento estou aprendendo sobre HTML, nos próximos trimestres também irei aprender CSS e Javascript. <br><br>
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -3,10 +3,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Natalia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="mini eu" height="200" width="250" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/9a6ea68f-de89-4425-93fc-f55c81aa2935">
+  <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" title="mini Natalia" height="200" width="250" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/9a6ea68f-de89-4425-93fc-f55c81aa2935">
 </div>
   
   ##

@@ -13,9 +13,9 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/natalia_olegini73?igsh=MTM2bWthMDBpeHptYQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank" title=Instagram></a> 
-  <a href = "mailto:nataliaolegini73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" title=Gmail></a>
-  <a href="https://www.linkedin.com/in/natalia-olegini-1436422b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank" title=Linkedin> </a> 
+  <a href="https://www.instagram.com/natalia_olegini73?igsh=MTM2bWthMDBpeHptYQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title=Instagram></a> 
+  <a href = "mailto:nataliaolegini73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
+  <a href="https://www.linkedin.com/in/natalia-olegini-1436422b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
    <a href="https://linktr.ee/nataliaolegini" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" title=linktr.ee></a>  
   
 </div>

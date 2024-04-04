@@ -6,7 +6,7 @@
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="C++" height="30" width="40" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/7d6450c5-5904-4b26-af59-3dcdc7965f56">
+  <img align="center" title="C++" height="30" width="40" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/7e04f62c-6b9a-4ce8-b0a0-66054fb7c16b">
    <img align="right" title="mini Natalia" height="200" width="250" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/9a6ea68f-de89-4425-93fc-f55c81aa2935">
  
   

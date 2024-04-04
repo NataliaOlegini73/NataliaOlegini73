@@ -8,7 +8,7 @@
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="C++" height="30" width="40" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/7d6450c5-5904-4b26-af59-3dcdc7965f56">
    <img align="right" title="mini Natalia" height="200" width="250" src="https://github.com/NataliaOlegini73/NataliaOlegini73/assets/149552687/9a6ea68f-de89-4425-93fc-f55c81aa2935">
-</div>
+ 
   
   ##
  
@@ -16,5 +16,8 @@
   <a href="https://www.instagram.com/natalia_olegini73?igsh=MTM2bWthMDBpeHptYQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank" title=Instagram></a> 
   <a href = "mailto:nataliaolegini73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" title=Gmail></a>
   <a href="https://www.linkedin.com/in/natalia-olegini-1436422b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank" title=Linkedin> </a> 
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>  
+  <a href="https://orcid.org/0000-0001-9973-3180" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
+</div>
   
 </div>

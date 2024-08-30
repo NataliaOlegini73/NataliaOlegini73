@@ -2,7 +2,7 @@
 <!-- README inspired by Youtube Rafaella Ballerini -->
 
 <div style="display: inline_block"><br>
-  Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas. Aprendi um pouco de C++ e HTML,no momento estou aprendendo sobre JavaScript e no próximo trimestre também irei aprender CSS. <br><br>
+  Sou estudante do 2° ano do curso técnico de Informática - Desenvolvimento de Sistemas no CEPB. Aprendi um pouco de C++ e HTML,no momento estou aprendendo sobre JavaScript e no próximo trimestre também irei aprender CSS. <br><br>
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

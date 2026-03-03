@@ -2,7 +2,7 @@
 <!-- README inspired by Youtube Rafaella Ballerini -->
 
 <div style="display: inline_block"><br>
-  Sou estudante do 3° ano do curso técnico de Informática - Desenvolvimento de Sistemas no CEPB. Aprendi um pouco de C++, HTML, JS e CSS. No momento estou iniciando o estudo em novas programações, como Java, C, C# entre outras.  <br><br>
+  Sou estudante do 1° semestre em Desenvolvimento de Sistemas na UniMater. Aprendi um pouco de C++, HTML, JS, CSS, SQL e análise de software. No momento estou iniciando o estudo em novas programações, como Java.  <br><br>
   <img align="center" title="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,7 +15,7 @@
 <div> 
   <a href="https://www.instagram.com/natalia_olegini73?igsh=MTM2bWthMDBpeHptYQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title=Instagram></a> 
   <a href = "mailto:nataliaolegini73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
-  <a href="https://www.linkedin.com/in/natalia-olegini-1436422b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
+  <a href="https://www.linkedin.com/in/natalia-olegini73" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
    <a href="https://linktr.ee/nataliaolegini" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" title=linktr.ee></a>  
   
 </div>
